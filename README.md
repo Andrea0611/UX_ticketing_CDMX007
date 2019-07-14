@@ -23,7 +23,7 @@ Actualmente, CIE tiene participación en OCESA, la mayor promotora de conciertos
 
 Utilizamos la metodología design thinking que nos apoya con su estructura en las fases: empatizar, definir, idear, prototipar y testear.
 
-![metodologia](https://i.ibb.co/RvstBvk/1-EANt-Zq42w-WNMBHe5n-TNq-Uw.png)
+![metodologia](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/Ticketmaster-1sdsd.jpg)
 
 ## Problema
 
@@ -31,27 +31,27 @@ Utilizamos la metodología design thinking que nos apoya con su estructura en la
 A través de 39 encuestas que generamos pudimos identificar las siguientes problemáticas:
 
 - No encontrar boletos y no decía que no había disponibilidad donde yo quería
--Cuándo había elegido opción de meses sin intereses y al momento del pago, no lo respetó
--Boletos insuficientes
--Me cancelaron un boleto por que cambie el plástico de mi tdc
--La saturación
--Hasta el momento no he tenido mala experiencia
--Hacer cambio de tarjeta de crédito
--Pues quedar fuera de posibilidades para ciertos eventos por ejemplo boletos de futbol que se acaban en 15 minutos.
--Recogerlos, la cola es larguísima
--Cambiar la tarjeta con la que compre los boletos... Estuve casi una hora en llamada
+- Cuándo había elegido opción de meses sin intereses y al momento del pago, no lo respetó
+- Boletos insuficientes
+- Me cancelaron un boleto por que cambie el plástico de mi tdc
+- La saturación
+- Hasta el momento no he tenido mala experiencia
+- Hacer cambio de tarjeta de crédito
+- Pues quedar fuera de posibilidades para ciertos eventos por ejemplo boletos de futbol que se acaban en 15 minutos.
+- Recogerlos, la cola es larguísima
+- Cambiar la tarjeta con la que compre los boletos... Estuve casi una hora en llamada
 no pude imprimir mis boletos, no fui a mi evento y no me hicieron la devolución
--El reembolso del boleto por cancelación.
--Se saturaba la red y se acabaron los boletos
--Boletos cancelados sin notificación
--Justo hace unos días intenté comprar boletos para un evento, era imposible elegir el método de pago, cuando por fin lo logré (después de 6 intentos), cada vez que daba click en pagar, la página cargaba un error 404. Desistí de la compra, ni tenía tantas ganas de ir.
--Una vez, perdí unos boletos porque tenía que recogerlos con la tarjeta con la que había hecho la compra y unos días antes la había perdido y no hubo forma de que entendieran eso y perdí mis boletos.
--El sistema se cae de repente, pero se entiende
--Atención a clientes para cambiar tarjeta con la que se hizo la compra
--Que los revendedores me ganen los boletos
--atención al cliente
--El no escoger el lugar en algunos eventos
--Justo ahora intento comprar abonos para Corona capital llevo 2 horas intentando comprar y no me deja
+- El reembolso del boleto por cancelación.
+- Se saturaba la red y se acabaron los boletos
+- Boletos cancelados sin notificación
+- Justo hace unos días intenté comprar boletos para un evento, era imposible elegir el método de pago, cuando por fin lo logré (después de 6 intentos), cada vez que daba click en pagar, la página cargaba un error 404. Desistí de la compra, ni tenía tantas ganas de ir.
+- Una vez, perdí unos boletos porque tenía que recogerlos con la tarjeta con la que había hecho la compra y unos días antes la había perdido y no hubo forma de que entendieran eso y perdí mis boletos.
+- El sistema se cae de repente, pero se entiende
+- Atención a clientes para cambiar tarjeta con la que se hizo la compra
+- Que los revendedores me ganen los boletos
+- atención al cliente
+- El no escoger el lugar en algunos eventos
+- Justo ahora intento comprar abonos para Corona capital llevo 2 horas intentando comprar y no me deja
 También localizamos los siguientes datos que nos ayudan a verificar los momentos de dolor en Ticketmaster y que les gustaría que difundiera ticketmaster para mejorar su servicio.
 
 ![pains](https://i.ibb.co/wpJ9Rk1/Captura-de-pantalla-2019-06-11-a-la-s-10-14-53.png)
@@ -71,8 +71,6 @@ De todos los problemas que identificamos logramos identificar los problemas prin
 
 **General**
 -Formular una propuesta que mitigue el dolor principal de nuestros usuarios en la experiencia de compra en línea de boletos en Ticketmaster.
-
-![objetivos]()
 
 ## Definicion usuario
 
@@ -163,9 +161,6 @@ Dentro de los indicadores que elegimos fueron las ventas de boletos, # de visita
 -“Debido al monopolio de Ticketmaster sobre las demás boleteras los clientes normalizan el mal trato y desinterés en la estructura y diseño de la página web”
 
 
-![value]()
-
-
 ## Retos de Diseño
 - Yo como usuario deseo entender el contexto y lenguaje utilizados en el sitio web.(UX Writing del sitio web).
 - Yo como usuario deseo que sea accesible el mapa interactivo y que le entienda y pueda visualizar mis lugares (Opción de elegir el lugar del inmueble).
@@ -207,7 +202,7 @@ Deportes (afluencia-baja): De igual forma están sujetos al mapa interactivo que
 
 Para generar un flujo correcto en nuestro rediseño se realizó un diagrama de flujos en papel que nos mostraba que función se realizaría después, para que tengamos claro qué función iría una después de la otra. 
 
-![Flujos](https://i.ibb.co/TKJ7YTM/Whats-App-Image-2019-06-11-at-12-25-47.jpg)
+![Flujos](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/flujo.jpg)
 
 
 ### Testeos
@@ -224,12 +219,26 @@ Observaciones:
 - ¿Cómo sé que ya pagué?
 - Le da más sentido reservar el código.
 
-![testeo](https://i.ibb.co/vvdsg7m/Whats-App-Image-2019-06-13-at-09-06-25.jpg)
+![testeo](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/4.jpg)
 
-![testeo](https://i.ibb.co/WGq76c4/Whats-App-Image-2019-06-13-at-09-06-25-2.jpg)
+![testeo](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/1.jpg)
+
+![testeo](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/2.jpg)
 
 
 ## Prototipo de Alta Fidelidad
+
+![proto](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/TicketMaster-1-a.jpg)
+![proto](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/TicketMaster-2-b.jpg)
+![proto](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/TicketMaster-3-a.jpg)
+![proto](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/TicketMaster-3-c.jpg)
+![proto](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/TicketMaster-3-e.jpg)
+![proto](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/TicketMaster-6-b.jpg)
+![proto](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/TicketMaster-6-b.jpg)
+![proto](https://github.com/Andrea0611/UX_ticketing_CDMX007/blob/master/TicketMaster-para-ti.jpg)
+
+
+
 
 Se utilizaron las herramientas como figma y adobe illustrator para que se igualaran los formatos de Ticketmaster.
 FIGMA: https://www.figma.com/file/GtnrqbrhsmKC45p7AnZniX0S/Ticketmaster?node-id=29%3A19
@@ -241,12 +250,20 @@ FIGMA: https://www.figma.com/file/GtnrqbrhsmKC45p7AnZniX0S/Ticketmaster?node-id=
 ## Bibliografía ## 
 
 https://www.ticketmaster.com.mx/h/about_us.html?tm_link=tm_i_abouttm
+
 https://miro.com/app/board/o9J_kyYoS1E=/?moveToWidget=3074457346687620954
+
 https://expansion.mx/negocios/2013/12/02/como-derribar-a-ticketmaster
+
 https://www.milenio.com/negocios/conciertos-negocio-de-oro-para-mexico
+
 https://www.milenio.com/negocios/conciertos-negocio-de-oro-para-mexico
+
 https://www.gob.mx/profeco/documentos/cancelacion-de-eventos-de-entretenimiento?state=published
+
 https://www.gob.mx/profeco/documentos/cancelacion-de-eventos-de-entretenimiento?state=published
+
 https://cie-ri.com.mx/pdf/anual/XBRLREPORTEANUAL2017.pdf
+
 https://boletia.com/landings/servicios/asientos-numerados
 
